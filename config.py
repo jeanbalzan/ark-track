@@ -7,10 +7,3 @@ DB_HOST = 'localhost'
 DB_USER = 'postgres'
 DB_PASS = 'password'
 DB_NAME = 'etfdb'
-
-
-# DB_HOST = 'btm3mka7a1.sf0vx9p2hd.tsdb.cloud.timescale.com'
-# DB_USER = 'tsdbadmin'
-# DB_PASS = 'jtnfcfrciiywr7u2'
-# DB_NAME = 'tsdb'
-# DB_PORT = 38855
