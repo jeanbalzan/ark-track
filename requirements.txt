@@ -1,0 +1,8 @@
+alpaca_trade_api
+psycopg2
+asyncpg
+aiohttp
+requests
+csv
+
+# pip3 install -r requirements.txt
